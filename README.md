@@ -1,2 +1,0 @@
-# Lorax
-Lorax Interview Tasks
