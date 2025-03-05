@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SqsTestProject
-build_property.ProjectDir = C:\Users\ChandaranN\Lorax\LoraxAWSQueueSQS\SqsTestProject\
+build_property.ProjectDir = c:\Users\ChandaranN\Lorax\LoraxAWSQueueSQS\SqsTestProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqsTestProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f4845f607c8273523cc61e065c27e2a3d5f3142")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10d3062f09265ec9f1131cc910c3e63982212ba0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqsTestProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqsTestProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
